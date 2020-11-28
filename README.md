@@ -20,10 +20,7 @@
 
 >>
 Hi, I'm [Alexis Amir Giubi](), a Full Stack Developer 🚀 from Paraguay, I have solid knowledge to design professional websites.
-
-<img  src="https://github.com/delamente/delamente/blob/main/javascript.gif/>
-  
-
+<img  src="https://github.com/delamente/delamente/blob/main/javascript.gif"/>img 
 
 ### Donde me puedes encontrar
 
