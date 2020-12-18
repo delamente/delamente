@@ -22,10 +22,11 @@
 Hi, I'm [Alexis Amir Giubi](), a Full Stack Developer 🚀 from Paraguay, I have solid knowledge to design professional websites.
 <img  src="https://github.com/delamente/delamente/blob/main/javascript.gif"/>
 
-### Donde me puedes encontrar
+### 
+Where can you find me
 
-_Contacto Personal_
-*  **[Blog](https://draft.blogger.com/blog/posts/2784076167116050900)** :v:
-*  Fotos, tips y flyer **[Instagram](https://www.instagram.com/giubialexis/)** :v:
-*  Perfil Profesional **[Linkedin](https://www.linkedin.com/in/alexis-amir-giubi-63900a198/)** :v:
-* : Twitter**[Twitter](https://twitter.com/Alexis_giubi)** :v:
+_Personal Contact_
+*  **[Blog](https://draft.blogger.com/blog/posts/2784076167116050900)** 
+*  Fotos, tips y flyer **[Instagram](https://www.instagram.com/giubialexis/)** 
+*  Perfil Profesional **[Linkedin](https://www.linkedin.com/in/alexis-amir-giubi-63900a198/)** 
+* Twitter**[Twitter](https://twitter.com/Alexis_giubi)**
