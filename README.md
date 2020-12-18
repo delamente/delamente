@@ -25,7 +25,7 @@ Hi, I'm [Alexis Amir Giubi](), a Full Stack Developer 🚀 from Paraguay, I have
 ### Donde me puedes encontrar
 
 _Contacto Personal_
-* :star::blush: **[Blog](https://draft.blogger.com/blog/posts/2784076167116050900)** :v:
-* :star::blush: Fotos, tips y flyer **[Instagram](https://www.instagram.com/giubialexis/)** :v:
-* :star::blush: Perfil Profesional **[Linkedin](https://www.linkedin.com/in/alexis-amir-giubi-63900a198/)** :v:
-* :star::blush: Twitter**[Twitter](https://twitter.com/Alexis_giubi)** :v:
+*  **[Blog](https://draft.blogger.com/blog/posts/2784076167116050900)** :v:
+*  Fotos, tips y flyer **[Instagram](https://www.instagram.com/giubialexis/)** :v:
+*  Perfil Profesional **[Linkedin](https://www.linkedin.com/in/alexis-amir-giubi-63900a198/)** :v:
+* : Twitter**[Twitter](https://twitter.com/Alexis_giubi)** :v:
