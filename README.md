@@ -19,11 +19,10 @@
 ![]()   
 
 >>
-Hola, kpe [Alexis Amir Giubi](), a Full Stack Developer 🚀 from Paraguay, I have solid knowledge to design professional websites.
+Me llamo [Alexis Amir Giubi](), a programmer 🚀 from Paraguay.
 <img  src="https://github.com/delamente/delamente/blob/main/javascript.gif"/>
 
-### 
-Where can you find me
+###
 
 _Personal Contact_
 *  **[Blog](https://draft.blogger.com/blog/posts/2784076167116050900)** 
