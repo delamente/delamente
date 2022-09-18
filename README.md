@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome, my codes are poetry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/Alexis_giubi">
   <img align="left" alt="AlexAmir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -27,6 +27,4 @@ Where can you find me
 
 _Personal Contact_
 *  **[Blog](https://draft.blogger.com/blog/posts/2784076167116050900)** 
-*  Fotos, tips y flyer **[Instagram](https://www.instagram.com/giubialexis/)** 
 *  Perfil Profesional **[Linkedin](https://www.linkedin.com/in/alexis-amir-giubi-63900a198/)** 
-* Twitter**[Twitter](https://twitter.com/Alexis_giubi)**
